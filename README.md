@@ -6,4 +6,4 @@ Hi everyone!
 Here will be some usefull information about
 new Tutorial on Spring MVC / Spring Data SOLR
 
-somthing else for new branch + something else
+somthing else for new branch
