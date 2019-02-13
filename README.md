@@ -1,9 +1,8 @@
-# Spring-MVC-Spring-DATA-SOLR-tutorial
-Spring MVC / Spring DATA SOLR / tutorial
+# SparkSqoopPractice and alittle more
 
 Hi everyone!
 
 Here will be some usefull information about
-new Tutorial on Spring MVC / Spring Data SOLR
+new Practice notebook on SparkSqoop
 
 somthing else for new branch + some other stuff
